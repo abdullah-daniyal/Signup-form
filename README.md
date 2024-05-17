@@ -28,12 +28,6 @@ To use the form in your web project, follow these steps:
 - Form design created using Figma.
 - HTML and CSS conversion by [Your Name or Organization].
 
-### License
-This project is licensed under the [License Name, e.g., MIT License]. See the [LICENSE](LICENSE) file for details.
-
-### Feedback and Support
-If you encounter any issues or have suggestions for improvement, please feel free to [create an issue](https://github.com/yourusername/yourrepository/issues) or reach out to [Your Contact Information].
-
 ### Email: abdullahdaniyal67@gmail.com
 ### LinkedIn: https://www.linkedin.com/in/abdullah-daniyal-3b1722273/
 
